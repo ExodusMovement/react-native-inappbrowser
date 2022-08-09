@@ -1,5 +1,5 @@
 {
-  "name": "react-native-inappbrowser-reborn",
+  "name": "@exodus/react-native-inappbrowser-reborn",
   "version": "3.7.0",
   "description": "InAppBrowser for React Native",
   "main": "index.js",
