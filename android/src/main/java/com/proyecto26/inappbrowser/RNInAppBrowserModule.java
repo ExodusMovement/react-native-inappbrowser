@@ -21,6 +21,11 @@ public class RNInAppBrowserModule extends ReactContextBaseJavaModule {
     this.reactContext = reactContext;
   }
 
+  @Override    
+  public boolean canOverrideExistingModule() {        
+    return true;    
+  } 
+
   @Override
   public String getName() {
     return NAME;
